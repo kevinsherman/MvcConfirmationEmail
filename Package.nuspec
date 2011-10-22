@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>MvcConfirmationEmail</id>
+    <version>1.1</version>
+    <authors>Kevin Sherman</authors>
+    <owners>Kevin Sherman</owners>
+    <iconUrl>http://thekevincode.com/wp-content/uploads/2011/10/confirm.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Require email confirmation in ASP.NET MVC3 registration. Updated for AppHarbor.</description>
+    <copyright>Copyright 2011</copyright>
+    <tags>MVC MVC3 Confirmation Email</tags>
+  </metadata>
+</package>
